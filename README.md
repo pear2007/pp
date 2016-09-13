@@ -52,3 +52,7 @@ environments/            contains environment-based overrides
 tests                    contains various tests for the advanced application
     codeception/         contains tests developed with Codeception PHP Testing Framework
 ```
+
+这个东西是做的一个企业网站
+东西做的还不大好  如果是学习的话可以研究下 谢谢 别扔砖头 
+邮箱  ncplum@qq.com
